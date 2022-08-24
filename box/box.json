@@ -1,7 +1,7 @@
 {
 	"id": "com.demo.gauge",
 	"version": "1.0.0",
-	"name": "Demo Gauge",
+	"name": "ANKR Demo Gauge",
 	"description": "A gauge demo",
 	"newInstancePrefix": "Gauge",
 	"icon": "https://github.com/DataSensai/SAC-CustomWidgetTesting/tree/main/box/icon.png",
