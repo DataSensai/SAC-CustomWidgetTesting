@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://github.com/DataSensai/SAC-CustomWidgetTesting/tree/main/box/box.js",
+			"url": "https://github.com/DataSensai/SAC-CustomWidgetTesting/tree/main/box/box.js?raw=true",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://github.com/DataSensai/SAC-CustomWidgetTesting/tree/main/box/box_sps.js",
+			"url": "https://github.com/DataSensai/SAC-CustomWidgetTesting/tree/main/box/box_sps.js?raw=true",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://github.com/DataSensai/SAC-CustomWidgetTesting/tree/main/box/box_bps.js",
+			"url": "https://github.com/DataSensai/SAC-CustomWidgetTesting/tree/main/box/box_bps.js?raw=true",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
